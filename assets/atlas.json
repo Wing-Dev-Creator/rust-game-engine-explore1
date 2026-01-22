@@ -1,0 +1,6 @@
+{
+  "texture": "assets/sprites.png",
+  "columns": 2,
+  "rows": 2,
+  "tile_size": 32
+}
